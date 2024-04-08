@@ -1,0 +1,16 @@
+{
+  "name": "m-b-exp",
+  "version": "1.0.0",
+  "description": "A series of backend at melon and backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "melon"
+  ],
+  "author": "Arshiya Sheoran",
+  "license": "ISC"
+}
